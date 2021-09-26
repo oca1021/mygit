@@ -1,8 +1,8 @@
-package com.kt.git;
+package com.kh.git;
 
 import com.kh.animal.Cat;
 import com.kh.animal.Dog;
-import com.kt.foo.Foo;
+import com.kh.foo.Foo;
 
 public class HelloWorld {
 

@@ -1,4 +1,4 @@
-package com.kt.git;
+package com.kh.git;
 
 public class MergeTest {
 	

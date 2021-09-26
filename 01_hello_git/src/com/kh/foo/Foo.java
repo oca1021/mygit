@@ -1,4 +1,4 @@
-package com.kt.foo;
+package com.kh.foo;
 
 public class Foo {
 
